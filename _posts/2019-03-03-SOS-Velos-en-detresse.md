@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "S.O.S Vélos en detresse"
+title: "S.O.S Vélos en détresse"
 ---
 
 
