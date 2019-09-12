@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "S.O.S Velos en detresse"
+title: "S.O.S Vélos en detresse"
 ---
 
 
-[![](/assets/190216_FR_ParisVelocipaideHerveSylvain-490x275.jpg "190216_FR_ParisVelocipaideHerveSylvain"){:height="275" width="490"}](/assets/190216_FR_ParisVelocipaideHerveSylvain.jpg)<a href="../../../../wp-content/upLoads/2019/03/190216_FR_ParisVelocipaideHerveSylvain.jpg" markdown="1"><br/>
+[![](/assets/190216_FR_ParisVelocipaideHerveSylvain-490x275.jpg "190216_FR_ParisVelocipaideHerveSylvain"){:height="275" width="490"}](/assets/190216_FR_ParisVelocipaideHerveSylvain.jpg)<a href="/assets/190216_FR_ParisVelocipaideHerveSylvain-490x275.jpg" markdown="1"><br/>
 </a>
 **Après l’opération sauvetage du 26 novembre ([http://www.velocipaide.fr/2018/11/26/sauvetage-de-velos-par-velocipaide/](2018/11/26/sauvetage-de-velos-par-velocipaide/index.html)), 3 bénévoles de l’équipe de Vélocipaide ont enfourché à nouveau leurs vélos…**
 Équipés des remorques de l’atelier, nos courageux bénévoles ont profité du beau temps de ce samedi matin pour aller à la rescousse des vélos abandonnés dans une copropriété du 16e arrondissement.

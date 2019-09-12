@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sauvetage de velos par Velocipaide !"
+title: "Sauvetage de vélos par Vélocipaide !"
 ---
 
 
