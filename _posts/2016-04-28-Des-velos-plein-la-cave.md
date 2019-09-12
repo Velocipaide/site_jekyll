@@ -5,7 +5,7 @@ title: "Des vélos plein la cave"
 
 
 Hello, on a encore un tas de vélos qui vous attendent dans la cave ! Vélos de course, vélos de ville, VTT, VTC… N’hésitez pas à passer ce samedi 30 avril ou le 28 mai à l’atelier !
-En exclu, on vous montre notre mascotte de l’atelier : un vélo peut-être centenaire ! Admirez le systême de freins d’époque, et les poignées en bois. Celui-ci on le garde ;-)
+En exclu, on vous montre notre mascotte de l’atelier : un vélo peut-être centenaire ! Admirez le système de freins d’époque, et les poignées en bois. Celui-ci on le garde ;-)
 
 
 			#gallery-2 {
