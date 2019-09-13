@@ -26,6 +26,6 @@ En exclu, on vous montre notre mascotte de l’atelier : un vélo peut-être cen
 
 
 
-[![velo face](/assets/velo-face1-150x150.jpg "velo face"){:height="150" width="150"}](/assets/velo-face1.jpg "vélo face")
-[![velo profil](/assets/velo-profil1-150x150.jpg "velo profil"){:height="150" width="150"}](/assets/velo-profil1.jpg "vélo profil")
+[![velo face](/assets/old/velo-face1-150x150.jpg "velo face"){:height="150" width="150"}](/assets/old/velo-face1.jpg "vélo face")
+[![velo profil](/assets/old/velo-profil1-150x150.jpg "velo profil"){:height="150" width="150"}](/assets/old/velo-profil1.jpg "vélo profil")
 <br style="clear: both;"/>

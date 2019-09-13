@@ -21,19 +21,19 @@ Un bon moyen pour faire connaître l’atelier Vélocipaide en dehors des murs.
 Vivement le prochain atelier de rue !
 Les photos :<br/>
 
-[![plans vélo](/assets/plans-velo-150x150.jpg "plans vélo"){:height="150" width="150"}](/assets/plans-velo.jpg "plans vélo")
-[![fiches vélo](/assets/fiches-velo-150x150.jpg "fiches vélo"){:height="150" width="150"}](/assets/fiches-velo.jpg "fiches vélo")
+[![plans vélo](/assets/old/plans-velo-150x150.jpg "plans vélo"){:height="150" width="150"}](/assets/old/plans-velo.jpg "plans vélo")
+[![fiches vélo](/assets/old/fiches-velo-150x150.jpg "fiches vélo"){:height="150" width="150"}](/assets/old/fiches-velo.jpg "fiches vélo")
 <br/>
-[![clefs](/assets/clefs-150x150.jpg "clefs"){:height="150" width="150"}](/assets/clefs.jpg "clefs")
-[![atelier vélo de rue 1](/assets/atelier-velo-de-rue-1-150x150.jpg "atelier vélo de rue 1"){:height="150" width="150"}](/assets/atelier-velo-de-rue-1.jpg "atelier vélo de rue 1")
+[![clefs](/assets/old/clefs-150x150.jpg "clefs"){:height="150" width="150"}](/assets/old/clefs.jpg "clefs")
+[![atelier vélo de rue 1](/assets/old/atelier-velo-de-rue-1-150x150.jpg "atelier vélo de rue 1"){:height="150" width="150"}](/assets/old/atelier-velo-de-rue-1.jpg "atelier vélo de rue 1")
 <br/>
-[![atelier vélo de rue 2](/assets/atelier-velo-de-rue-2-150x150.jpg "atelier vélo de rue 2"){:height="150" width="150"}](/assets/atelier-velo-de-rue-2.jpg "atelier vélo de rue 2")
-[![atelier vélo de rue 3](/assets/atelier-velo-de-rue-3-150x150.jpg "atelier vélo de rue 3"){:height="150" width="150"}](/assets/atelier-velo-de-rue-3.jpg "atelier vélo de rue 3")
+[![atelier vélo de rue 2](/assets/old/atelier-velo-de-rue-2-150x150.jpg "atelier vélo de rue 2"){:height="150" width="150"}](/assets/old/atelier-velo-de-rue-2.jpg "atelier vélo de rue 2")
+[![atelier vélo de rue 3](/assets/old/atelier-velo-de-rue-3-150x150.jpg "atelier vélo de rue 3"){:height="150" width="150"}](/assets/old/atelier-velo-de-rue-3.jpg "atelier vélo de rue 3")
 <br/>
-[![retour atelier 1](/assets/retour-atelier-1-150x150.jpg "retour atelier 1"){:height="150" width="150"}](/assets/retour-atelier-1.jpg "retour atelier 1")
+[![retour atelier 1](/assets/old/retour-atelier-1-150x150.jpg "retour atelier 1"){:height="150" width="150"}](/assets/old/retour-atelier-1.jpg "retour atelier 1")
 
-[![retour atelier 2](/assets/retour-atelier-2-150x150.jpg "retour atelier 2"){:height="150" width="150"}](/assets/retour-atelier-2.jpg "retour atelier 2")
+[![retour atelier 2](/assets/old/retour-atelier-2-150x150.jpg "retour atelier 2"){:height="150" width="150"}](/assets/old/retour-atelier-2.jpg "retour atelier 2")
 <br/>
 
 
-Et en prime, [la vidéo du retour à télécharger ;-) ](/assets/retour-atelier.qt)
+Et en prime, [la vidéo du retour à télécharger ;-) ](/assets/old/retour-atelier.qt)

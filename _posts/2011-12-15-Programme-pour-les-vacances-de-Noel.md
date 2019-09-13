@@ -16,4 +16,4 @@ L’équipe Velocip’aide en profite pour vous souhaiter d’ores et déjà de 
 Un salut spécial à Jörg qui mouille le maillot à Madagascar dans le tour cycliste de l’île.
 Jörg, on est tous avec toi! Vous pouvez suivre la course sur son blog : [http://velospourmadagascar.fr/indexblog.php](http://velospourmadagascar.fr/indexblog.php "blog jörg")
  
-[![](/assets/DSC07798-490x367.jpg "Jörg à Madagascar"){:height="367" width="490"}](/assets/DSC07798.jpg)Jörg à Madagascar
+[![](/assets/old/DSC07798-490x367.jpg "Jörg à Madagascar"){:height="367" width="490"}](/assets/old/DSC07798.jpg)Jörg à Madagascar

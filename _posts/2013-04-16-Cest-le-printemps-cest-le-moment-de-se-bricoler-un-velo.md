@@ -12,4 +12,4 @@ L’atelier est ouvert le samedi de 13h30 à 18h sauf le premier samedi du mois.
 
 Venez nombreux !
  
- [![](/assets/100_6737-300x225.jpg "20181027_113943"){:height="367" width="490"}](/assets/100_6737.jpg)
+ [![](/assets/old/100_6737-300x225.jpg "20181027_113943"){:height="367" width="490"}](/assets/old/100_6737.jpg)

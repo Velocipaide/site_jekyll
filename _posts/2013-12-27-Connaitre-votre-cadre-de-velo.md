@@ -14,4 +14,4 @@ Yves a dessiné pour Vélocipaide les **cadres de vélo métalliques les plus co
 * col de cygne – a perduré en Hollande et redevient à la mode en France
 * torpille – tube diagonal simple* BMX – très compact pour résister aux chocs
   
-[![](/assets/01-Types-de-cadres-490x673.jpg "Types de cadres vélo"){:height="673" width="490"}](/assets/01-Types-de-cadres.jpg)
+[![](/assets/old/01-Types-de-cadres-490x673.jpg "Types de cadres vélo"){:height="673" width="490"}](/assets/old/01-Types-de-cadres.jpg)

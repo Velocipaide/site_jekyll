@@ -10,4 +10,4 @@ Nous y serons présents de 10h30 à 17h30 pour vous aider à réparer votre bicy
 
 Alors à samedi !
 
-![](/assets/atelier-velo-marche-bio-490x333.jpg "Marché bio - Atelier vélo"){:height="333" width="490"}
+![](/assets/old/atelier-velo-marche-bio-490x333.jpg "Marché bio - Atelier vélo"){:height="333" width="490"}

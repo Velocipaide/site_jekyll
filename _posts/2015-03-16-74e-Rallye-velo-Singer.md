@@ -11,4 +11,4 @@ Le départ était à 7h30 Porte Maillot pour un parcours jusqu’à la vallée d
 A l’année prochaine ;-)
 <br/>
   
-![](/assets/velocipaide-rallye-velo-Singer-490x367.jpg "velocipaide-rallye velo Singer"){:height="367" width="490"}
+![](/assets/old/velocipaide-rallye-velo-Singer-490x367.jpg "velocipaide-rallye velo Singer"){:height="367" width="490"}
