@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cyclisme solidaire: Jorg nous parle de son projet pour Madagascar"
+title: "Cyclisme solidaire: Jörg nous parle de son projet pour Madagascar"
 ---
 
 
