@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nos nouveaux stickers sont arrives!"
+title: "Nos nouveaux stickers sont arrivés!"
 ---
 
 
